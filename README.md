@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I am lucas Sonntag, passionate of mathematics since several years.
+I am Lucas Sonntag, passionate of mathematics since several years.
 That's why, after 3 years of Pure mathematics, I join course in applied mathematics at university of Strasbourg.
 This class is both Theorical and practical.
 
 Here is the skill learned in a nutshell:
 
-1. C++ language
+1. Machine learning 
 2. High performance computing (MPI,Opencl,OPENMP)
 3. Distribution Theory
 4. Functionnal analysis 
